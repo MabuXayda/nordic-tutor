@@ -100,5 +100,4 @@ team["team_long_name"].nunique()
 
 team_att = pd.read_csv(_path + "/Team_Attributes.csv", sep="\t")
 
-#%%
-sample = player_all.sample(1000)
+
